@@ -12,8 +12,8 @@ export const blogConfig = {
 
   // 导航菜单 - 关键修改点：增加了 /blog1/ 前缀
   navigation: [
-    { name: "首页", path: "/blog1/" },
-    { name: "关于", path: "/blog1/about" }
+    { name: "首页", path: "/" },
+    { name: "关于", path: "/about" }
   ],
 
   // 博客文章列表

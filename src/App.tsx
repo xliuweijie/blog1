@@ -7,7 +7,8 @@ import { About } from "@/pages/About";
 
 function App() {
   return (
-    <BrowserRouter>
+    /* 关键修改：增加 basename 属性，告诉 React 所有路由都基于 /blog1 */
+    <BrowserRouter basename="/blog1">
       <div className="min-h-screen flex flex-col bg-white">
         <Navbar />
         <main className="flex-1">
