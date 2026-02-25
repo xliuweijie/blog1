@@ -7,7 +7,7 @@ export const blogConfig = {
     author: "林氪",
     email: "your.email@example.com",
     github: "https://github.com/xliuweijie",
-    avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Felix"
+    avatar: "https://s1.aigei.com/src/img/jpg/88/883f9f9c8dfd4f8b99cc8abe8c997333.jpg?imageMogr2/auto-orient/thumbnail/!282x282r/gravity/Center/crop/282x282/quality/85/%7CimageView2/2/w/282&e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:UvSsaPJ453FbKHB7XmV-aIOoww8="
   },
 
   // 导航菜单 - 关键修改点：增加了 /blog1/ 前缀
